@@ -1,0 +1,6 @@
+Applicant_ID,credit_history,income,employment_status,Loan_Amount,Loan_Term,previous_defaults,loan_approval
+1001,1,50000,Employed,200000,30,0,Yes
+1002,0,60000,Unemployed,250000,15,1,No
+1003,1,30000,Employed,100000,30,0,Yes
+1004,1,40000,Employed,150000,15,0,Yes
+1005,0,20000,Unemployed,50000,30,1,No

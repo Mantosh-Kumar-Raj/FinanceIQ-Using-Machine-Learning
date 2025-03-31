@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking ML Application</title>
+</head>
+<body>
+    <h1>Credit Scoring</h1>
+    <form id="creditForm">
+        <input type="text" id="creditHistory" placeholder="Credit History" required>
+        <input type="text" id="income" placeholder="Income" required>
+        <input type="text" id="employment" placeholder="Employment Status" required>
+        <button type="submit">Check Credit Score</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+        document.getElementById('creditForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const data = {
+                credit_history: document.getElementById('creditHistory').value,
+                income: document.getElementById('income').value,
+                employment_status: document.getElementById('employment').value
+            };
+
+            fetch('/credit-scoring', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').innerText = 'Credit Approval: ' + data.credit_approval;
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>

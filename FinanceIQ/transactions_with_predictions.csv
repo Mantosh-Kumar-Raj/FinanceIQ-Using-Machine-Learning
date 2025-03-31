@@ -1,0 +1,101 @@
+transaction_id,transaction_amount,location,merchant_details,user_behavior,true_labels,is_fraud
+1,6222,Illinois,Luxury Store,High-Value Jewelry,0,0
+2,7883,Texas,Target,Unusual High Spend,1,0
+3,9412,California,Electronics Store,Regular Fast Food,0,0
+4,3633,Ohio,McDonald's,Regular Shopping,0,0
+5,7324,Florida,McDonald's,Regular Fast Food,0,0
+6,7884,Texas,Gas Station,Frequent Online Purchases,0,0
+7,4166,Illinois,Amazon,Last-Minute Booking,0,0
+8,3020,Nevada,Gas Station,Frequent Travel,0,0
+9,4427,New York,Apple Store,Unusual Crypto Activity,1,0
+10,1085,Texas,Gas Station,Entertainment,0,0
+11,2308,California,Amazon,Regular Fast Food,0,0
+12,984,Florida,Gas Station,Unusual High Spend,0,0
+13,245,New York,Hotel Booking,Frequent Travel,0,0
+14,6720,Ohio,Car Dealer,Daily Coffee,0,0
+15,5516,Nevada,Walmart,Entertainment,0,0
+16,8714,California,Walmart,Regular Shopping,0,0
+17,360,Ohio,McDonald's,Daily Coffee,0,0
+18,4978,California,Cinema,Last-Minute Booking,0,0
+19,2685,Nevada,Cinema,Daily Groceries,0,0
+20,2653,Nevada,Apple Store,Entertainment,0,0
+21,4549,Nevada,Best Buy,Rare High-Value Purchase,0,0
+22,3459,California,Walmart,Frequent Travel,0,0
+23,3356,Florida,Local Market,Frequent Travel,0,0
+24,1088,Texas,Crypto Exchange,Unusual Crypto Activity,0,0
+25,5697,Texas,Walmart,Entertainment,0,0
+26,9785,Florida,Apple Store,Rare Luxury Purchase,1,1
+27,6814,Illinois,Gas Station,Last-Minute Booking,0,0
+28,8201,Nevada,McDonald's,Daily Coffee,0,0
+29,8312,Nevada,Gas Station,Rare High-Value Purchase,0,0
+30,9841,Florida,Hotel Booking,Entertainment,0,0
+31,962,Illinois,Luxury Store,Unexpected Large Purchase,0,0
+32,9081,Florida,Gas Station,Frequent Travel,0,0
+33,2748,New York,Amazon,Entertainment,0,0
+34,2297,New York,Best Buy,Regular Shopping,0,0
+35,4934,New York,Walmart,Daily Groceries,0,0
+36,7595,California,Crypto Exchange,Seasonal Shopping,0,0
+37,2040,California,McDonald's,Rare Luxury Purchase,0,0
+38,7773,Ohio,Gas Station,Regular Fast Food,0,0
+39,1144,Illinois,Walmart,High-Value Jewelry,0,0
+40,8205,Texas,Jewelers,Regular Fast Food,0,0
+41,2637,Texas,Walmart,Regular Fast Food,0,0
+42,5975,Texas,McDonald's,Frequent Travel,0,0
+43,9544,California,Jewelers,Seasonal Shopping,0,0
+44,4726,Ohio,Hotel Booking,Unusual Crypto Activity,1,0
+45,6914,Texas,Local Market,Frequent Online Purchases,0,0
+46,2903,Florida,Walmart,Daily Coffee,0,0
+47,4119,Ohio,Target,High-Value Jewelry,0,0
+48,3195,New York,Walmart,Rare Luxury Purchase,1,0
+49,3601,Illinois,Jewelers,Rare Luxury Purchase,1,0
+50,3234,Illinois,Local Market,Rare High-Value Purchase,0,0
+51,3225,Nevada,Car Rental,High-Value Jewelry,0,0
+52,3507,California,Amazon,Unexpected Large Purchase,1,0
+53,3386,California,Amazon,Regular Fast Food,0,0
+54,7630,Illinois,Hotel Booking,Unexpected Large Purchase,1,0
+55,2188,Nevada,McDonald's,Unusual High Spend,0,0
+56,5266,Texas,Starbucks,Daily Coffee,0,0
+57,5482,Florida,Hotel Booking,Frequent Online Purchases,0,0
+58,8189,Texas,Online Store,Unusual Crypto Activity,1,0
+59,4907,Nevada,Target,Entertainment,0,0
+60,985,Nevada,Starbucks,Frequent Online Purchases,0,0
+61,5657,New York,Local Market,Unexpected Large Purchase,1,0
+62,3183,Illinois,Online Store,Frequent Travel,0,0
+63,2899,Texas,Jewelers,Frequent Online Purchases,0,0
+64,8985,New York,Starbucks,Daily Coffee,0,0
+65,4531,New York,Crypto Exchange,Unusual High Spend,1,0
+66,4201,Texas,McDonald's,Frequent Online Purchases,0,0
+67,7152,Texas,Electronics Store,Frequent Online Purchases,0,0
+68,8547,Texas,Apple Store,Rare High-Value Purchase,0,0
+69,6439,New York,Best Buy,Entertainment,0,0
+70,6910,Texas,Best Buy,Last-Minute Booking,0,0
+71,5891,Texas,Crypto Exchange,Frequent Travel,0,0
+72,2506,Nevada,Local Market,High-Value Jewelry,0,0
+73,8295,Texas,Cinema,Regular Shopping,0,0
+74,9525,Florida,Luxury Store,Rare High-Value Purchase,0,0
+75,9648,New York,Walmart,Rare High-Value Purchase,0,0
+76,5654,Texas,Electronics Store,High-Value Jewelry,0,0
+77,368,Texas,Car Rental,Rare Luxury Purchase,0,0
+78,868,Illinois,Luxury Store,Daily Groceries,0,0
+79,3345,Nevada,Car Rental,Rare Luxury Purchase,1,0
+80,8618,Nevada,Jewelers,Unexpected Large Purchase,1,0
+81,9200,California,Local Market,Frequent Online Purchases,0,0
+82,3789,Ohio,Apple Store,Regular Fast Food,0,0
+83,1582,Illinois,Cinema,Daily Groceries,0,0
+84,1370,California,Hotel Booking,Last-Minute Booking,0,0
+85,6037,Texas,Car Rental,Unusual Crypto Activity,1,0
+86,8774,Texas,Car Rental,Last-Minute Booking,0,0
+87,2821,Illinois,Luxury Store,Unusual Crypto Activity,0,0
+88,2431,Ohio,Crypto Exchange,High-Value Jewelry,0,0
+89,3854,Nevada,Apple Store,Frequent Online Purchases,0,0
+90,4317,Texas,Local Market,Seasonal Shopping,0,0
+91,2161,Illinois,Electronics Store,Rare High-Value Purchase,0,0
+92,8168,Nevada,Crypto Exchange,Daily Coffee,0,0
+93,603,Nevada,Walmart,Daily Groceries,0,0
+94,6738,Texas,Electronics Store,High-Value Jewelry,0,0
+95,276,New York,Online Store,Unusual High Spend,0,0
+96,3475,Ohio,Online Store,Rare Luxury Purchase,1,0
+97,1971,Nevada,Hotel Booking,Seasonal Shopping,0,0
+98,2473,Nevada,Online Store,Daily Groceries,0,0
+99,8633,California,Gas Station,Rare High-Value Purchase,0,0
+100,5707,Nevada,Electronics Store,Rare Luxury Purchase,1,0

@@ -1,0 +1,6 @@
+account_activity,service_usage,demographics,customer_feedback,churn
+1,3,young,5,0
+0,5,middle-aged,3,1
+1,2,senior,4,0
+1,1,young,2,1
+0,0,senior,1,1
