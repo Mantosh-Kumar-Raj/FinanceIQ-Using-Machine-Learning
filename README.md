@@ -7,15 +7,13 @@ FinanceIQ is a machine learning-based system that enhances banking operations th
 - **Fraud Detection** – Identifies fraudulent transactions using anomaly detection.  
 - **Loan Approval Prediction** – Uses supervised learning to assess risk.  
 - **Customer Segmentation** – Clustering for personalized banking solutions.  
-- **Market Trend Analysis** – Sentiment analysis for financial insights.  
-- **AI Chatbot** – Provides automated customer support and recommendations.  
+- **Sentiments Analysis** – Sentiment analysis for financial insights.  
 
 ## Tools & Technologies  
 - **Programming:** Python  
-- **ML Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy  
-- **Database:** MySQL / MongoDB  
-- **Frameworks:** Flask / Django  
-- **Cloud Integration:** AWS (Optional)  
+- **ML Libraries:** Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy  
+- **Dataset:** Kaggle
+- **Web Library:** Streamlit
 
 ## Conclusion  
 FinanceIQ empowers banks with AI-driven fraud prevention, smarter loan processing, and improved customer engagement, making banking more efficient and secure.  
