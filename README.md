@@ -1,7 +1,7 @@
 # FinanceIQ – Machine Learning in Banking
 
 ## Overview  
-FinanceIQ is a machine learning-based system that enhances banking operations through predictive analytics and fraud detection. It integrates multiple models for fraud detection, loan approval prediction, and customer segmentation. The system also includes sentiment analysis, investment portfolio optimization, and an AI chatbot for personalized financial recommendations.  
+FinanceIQ is a machine learning-based system that enhances banking operations through predictive analytics and fraud detection. It integrates multiple models for fraud detection, loan approval prediction, and customer segmentation. The system also includes sentiment analysis, credit scoring, fastest low apporval and personalized financial recommendations.  
 
 ## Key Features  
 - **Fraud Detection** – Identifies fraudulent transactions using anomaly detection.  
